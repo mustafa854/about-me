@@ -29,7 +29,7 @@ export default function Footer({ ref }: any) {
     >
       <sc.TextWrapper>
         <p>
-          If you have a project you&apos;d like to talk about, you can contact me on <B href="https://wa.me/919904652091">WhatsApp</B>, <B href="tel:9904652091">call</B>, or <B href="mailto:victor_f_brito@outlook.com">email</B> me. I would be more than happy to assist you!
+          If you have a project you&apos;d like to talk about, you can contact me on <B href="https://wa.me/919904652091">WhatsApp</B>, <B href="tel:9904652091">call</B>, or <B href="mailto:victor_f_brito@outlook.com">email</B> me.
         </p>
       </sc.TextWrapper>
       <sc.ImageWrapper>
