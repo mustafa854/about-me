@@ -8,7 +8,7 @@
             "Figma", "Wordpress", "Woocommerce"
         ],
         "animation_src": "wp_extension_video.mp4",
-        "url": "vinson-jewelry.com"
+        "url": "https://vinson-jewelry.com"
     },
     {
         "index": 1,
@@ -19,7 +19,7 @@
             "Figma", "Wordpress", "Woocommerce"
         ],
         "animation_src": "wiki_redesign_video.mp4",
-        "url": "mslingies.com"
+        "url": "https://mslingies.com"
     },
     {
         "index": 2,
@@ -30,6 +30,6 @@
             "Dynamic Product Upload & Showcase", "Dynamic Recipe Upload on Each Product", "Wordpress"
         ],
         "animation_src": "sample_video.mp4",
-        "url": "jfdfoodsllp.com"
+        "url": "https://jfdfoodsllp.com"
     }
 ]
