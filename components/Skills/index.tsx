@@ -10,16 +10,13 @@ export default function Skills() {
 
   return (
     <sc.MainWrapper>
-      My favorite frameworks are: 
-      <br/>
-      {skills.map(e => 
-        skills.indexOf(e) < skills.length - 2 ? e + ', ' : 
-        skills.indexOf(e) < skills.length - 1 ? e + ' and ' : 
-        e
-      )};
+      
+      Feel free to take a look at my portfolio and get in touch if you'd like to discuss a project. 
+      
+     
       <br/>
       <br/>
-      But I&apos;m open for new things.
+      I&apos;d be more than happy to help bring your website dreams to life.
     </sc.MainWrapper>
   )
 }
