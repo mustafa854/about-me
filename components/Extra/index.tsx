@@ -6,7 +6,7 @@ export default function Extra() {
 
   return (
     <sc.MainWrapper>
-      I&apos;m based in São Paulo, Brazil.
+      I&apos;m based in Surat, Gujarat.
     </sc.MainWrapper>
   )
 }
