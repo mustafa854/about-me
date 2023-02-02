@@ -12,7 +12,7 @@ export default function About() {
       <p>
         Whether you&acute;re looking for a website for your business or a personal portfolio, I can help you bring your vision to life.
       </p>
-      
+      <p></p>
     </sc.MainWrapper>
   )
 }
