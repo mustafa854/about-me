@@ -10,17 +10,17 @@ export default function Introduction() {
     <sc.MainWrapper>
       <sc.Title>
         <span>
-          Front-End
+          Mustafa B.
         </span>
         <span>
-          Developer
+          FOUNDER
         </span>
         <span>
-         Portfolio
+        Developer
         </span>
       </sc.Title>
       <sc.Subtitle>
-        <B href="/resume.pdf">Open to work</B>
+        <B href="https://wa.me/919904652091">CONTACT ME</B>
       </sc.Subtitle>
     </sc.MainWrapper>
   )
