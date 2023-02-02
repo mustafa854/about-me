@@ -1,35 +1,35 @@
 [
     {
         "index": 0,
-        "git_name": "Browser Extension",
-        "list_name": "Browser Extension",
-        "about": "This project is a browser extension experiment built with Vue. It allows it's users to customize their Whatsapp Web chat background with different images and animations",
+        "git_name": "Vinson Jewelry",
+        "list_name": "Vinson Jewelry",
+        "about": "Vinson Jewelry is a unique project that required a custom-built website to meet their specific needs. The website was developed with a focus on showcasing their wide range of high-quality imitation jewelry, which they export to the USA and Canada. The site features a clean and modern design that highlights the beauty of their products and provides an enjoyable user experience. With its robust and intuitive back-end, Vinson Jewelry is well-equipped to manage their online presence and meet the needs of their growing business.",
         "tech": [
-            "Chrome Extension API", "Vue", "Styled Components"
+            "Figma", "Wordpress", "Woocommerce"
         ],
         "animation_src": "wp_extension_video.mp4",
-        "url": "https://github.com/victorfbrito/whatsapp-web-customize"
+        "url": "vinson-jewelry.com"
     },
     {
         "index": 1,
-        "git_name": "Wiki Redesign",
-        "list_name": "Wiki Redesign",
-        "about": "Wikipedia is an online encyclopedia maintained by a model of open collaboration. They provide free access to their data through the MediaWiki API. I used this project to communicate with and exhibit data from this API. I'm not this designs original creator, just used it as a model for this experience.",
+        "git_name": "Ms Lingies",
+        "list_name": "Ms Lingies",
+        "about": "Ms Lingies is a startup that was in need of a custom-built website to establish their brand presence online. The website was developed with the aim of providing a seamless online shopping experience for customers, inspired by the functionality of multi-billion dollar sites like Amazon, Flipkart, and Zivame. The website was custom-built to meet the unique needs of Ms Lingies and provides an attractive and user-friendly interface for browsing and purchasing their products on platforms like Myntra and Ajio. The end result is a website that effectively represents the brand and helps drive sales.",
         "tech": [
-            "Vue", "Styled Components", "MediaWiki API"
+            "Figma", "Wordpress", "Woocommerce"
         ],
         "animation_src": "wiki_redesign_video.mp4",
-        "url": "https://wikipedia-redesign-umber.vercel.app/article/Harry_Potter"
+        "url": "mslingies.com"
     },
     {
         "index": 2,
-        "git_name": "Portfolio V1",
-        "list_name": "Portfolio V1",
-        "about": "This is my virtual Business Card. I plan to improve it regularly for a cleaner code and visuals. I got design inspiration from Jonas Reymondin and Brittany Chang. Feel free to look around.",
+        "git_name": "JFD Foods LLP",
+        "list_name": "JFD Foods LLP",
+        "about": "JFD Foods LLP is an authentic Indian masala exporting company that required a custom-built website to showcase their wide range of products. The website was developed with the aim of providing an easy-to-use platform for customers to browse and learn about JFD Foods' products. The site features a clean and intuitive design, with clear product categorization and detailed information about each item. With its user-friendly interface and comprehensive product catalog, JFD Foods' website effectively represents their brand and helps drive sales.",
         "tech": [
-            "Next", "Styled Components", "React Parallax", "Figma"
+            "Dynamic Product Upload & Showcase", "Dynamic Recipe Upload on Each Product", "Wordpress"
         ],
         "animation_src": "sample_video.mp4",
-        "url": "https://vbrito.dev"
+        "url": "jfdfoodsllp.com"
     }
 ]
